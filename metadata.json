@@ -1,0 +1,282 @@
+[
+  {
+    "number": 1,
+    "title": "구석기시대와 최초의 인류",
+    "short_title": "구석기시대",
+    "period": "약 140만 년 전~기원전 5600년경",
+    "subtitle": "아타푸에르카·네안데르탈인·알타미라",
+    "category": "선사·고대",
+    "completed": true,
+    "keywords": "Paleolítico Atapuerca Altamira"
+  },
+  {
+    "number": 2,
+    "title": "신석기시대와 금속기시대",
+    "short_title": "신석기·금속기",
+    "period": "기원전 5600~900년경",
+    "subtitle": "농경·거석문화·로스 미야레스·엘 아르가르",
+    "category": "선사·고대",
+    "completed": true,
+    "keywords": "Neolítico Edad del Bronce Los Millares El Argar"
+  },
+  {
+    "number": 3,
+    "title": "원사시대와 이베리아반도의 여러 민족",
+    "short_title": "원사시대",
+    "period": "기원전 900~218년경",
+    "subtitle": "타르테소스·이베리아인·켈트인·페니키아인",
+    "category": "선사·고대",
+    "completed": true,
+    "keywords": "Tartessos iberos celtas celtiberos fenicios"
+  },
+  {
+    "number": 4,
+    "title": "로마의 히스파니아",
+    "short_title": "로마 시대",
+    "period": "기원전 218년~서기 5세기",
+    "subtitle": "정복·로마화·라틴어·기독교 전파",
+    "category": "선사·고대",
+    "completed": true,
+    "keywords": "Hispania romana Roma latin Numancia Viriato"
+  },
+  {
+    "number": 5,
+    "title": "서고트 왕국과 톨레도",
+    "short_title": "서고트 왕국",
+    "period": "418~711년",
+    "subtitle": "레오비힐도·레카레도·톨레도 공의회",
+    "category": "중세",
+    "completed": true,
+    "keywords": "Visigodos Toledo Leovigildo Recaredo"
+  },
+  {
+    "number": 6,
+    "title": "알안달루스의 성립과 코르도바 토후국",
+    "short_title": "알안달루스 초기",
+    "period": "711~929년",
+    "subtitle": "이슬람 정복·아스투리아스·우마이야 에미르국",
+    "category": "중세",
+    "completed": true,
+    "keywords": "Al Andalus Emirato Córdoba Abd al Rahman Covadonga"
+  },
+  {
+    "number": 7,
+    "title": "코르도바 칼리파국의 전성기와 붕괴",
+    "short_title": "코르도바 칼리파국",
+    "period": "929~1031년",
+    "subtitle": "압드 알라흐만 3세·메디나 아사아라·알만소르",
+    "category": "중세",
+    "completed": true,
+    "keywords": "Califato Córdoba Medina Azahara Almanzor"
+  },
+  {
+    "number": 8,
+    "title": "타이파 왕국과 알모라비데의 시대",
+    "short_title": "타이파·알모라비데",
+    "period": "1031~1147년",
+    "subtitle": "1085년 톨레도·엘 시드·알모라비데의 진출",
+    "category": "중세",
+    "completed": true,
+    "keywords": "Taifas Almorávides Toledo El Cid Sagrajas"
+  },
+  {
+    "number": 9,
+    "title": "알모아데 왕조와 기독교 왕국의 대팽창",
+    "short_title": "알모아데·대팽창",
+    "period": "1147~1250년경",
+    "subtitle": "1212년 라스 나바스 데 톨로사·코르도바·세비야",
+    "category": "중세",
+    "completed": true,
+    "keywords": "Almohades Navas de Tolosa Fernando III Valencia"
+  },
+  {
+    "number": 10,
+    "title": "그라나다 나스르 왕국과 중세 후기",
+    "short_title": "그라나다·중세 후기",
+    "period": "1232~1492년",
+    "subtitle": "알람브라·흑사병·왕조적 결합·그라나다 함락",
+    "category": "중세",
+    "completed": true,
+    "keywords": "Nazari Granada Alhambra peste negra Reyes Católicos"
+  },
+  {
+    "number": 11,
+    "title": "가톨릭 공동군주와 스페인 근세의 시작",
+    "short_title": "가톨릭 공동군주",
+    "period": "1474~1516년",
+    "subtitle": "이사벨·페르난도·콜럼버스·종교재판소",
+    "category": "근세",
+    "completed": true,
+    "keywords": "Reyes Católicos Isabel Fernando Colón 1492"
+  },
+  {
+    "number": 12,
+    "title": "합스부르크 전성기와 스페인 제국",
+    "short_title": "합스부르크 전성기",
+    "period": "1516~1598년",
+    "subtitle": "카를로스 1세·펠리페 2세·아메리카 정복",
+    "category": "근세",
+    "completed": true,
+    "keywords": "Carlos V Felipe II imperio Lepanto Armada"
+  },
+  {
+    "number": 13,
+    "title": "합스부르크 후반기와 제국의 위기",
+    "short_title": "합스부르크 후반기",
+    "period": "1598~1700년",
+    "subtitle": "30년 전쟁·포르투갈 독립·황금세기",
+    "category": "근세",
+    "completed": true,
+    "keywords": "Felipe IV Portugal Cataluña 1640 Siglo de Oro"
+  },
+  {
+    "number": 14,
+    "title": "부르봉 왕조의 등장과 18세기 계몽개혁",
+    "short_title": "부르봉·계몽개혁",
+    "period": "1700~1788년",
+    "subtitle": "왕위 계승 전쟁·누에바 플란타·카를로스 3세",
+    "category": "근세",
+    "completed": true,
+    "keywords": "Borbones Nueva Planta Carlos III ilustración"
+  },
+  {
+    "number": 15,
+    "title": "프랑스 혁명과 나폴레옹 침공, 스페인 독립전쟁",
+    "short_title": "독립전쟁·카디스 헌법",
+    "period": "1788~1814년",
+    "subtitle": "트라팔가르·1808년 봉기·1812년 헌법",
+    "category": "근현대",
+    "completed": true,
+    "keywords": "Napoleón Trafalgar Guerra Independencia Constitución Cádiz"
+  },
+  {
+    "number": 16,
+    "title": "페르난도 7세와 자유주의 혁명",
+    "short_title": "페르난도 7세",
+    "period": "1814~1833년",
+    "subtitle": "리에고 봉기·아메리카 독립·카를리스모",
+    "category": "근현대",
+    "completed": true,
+    "keywords": "Fernando VII Riego Trienio Liberal Ayacucho carlismo"
+  },
+  {
+    "number": 17,
+    "title": "이사벨 2세와 자유주의 국가의 형성",
+    "short_title": "이사벨 2세",
+    "period": "1833~1868년",
+    "subtitle": "카를리스타 전쟁·섭정·자유주의 개혁·철도",
+    "category": "근현대",
+    "completed": true,
+    "keywords": "Isabel II guerras carlistas Mendizábal ferrocarril"
+  },
+  {
+    "number": 18,
+    "title": "1868년 혁명과 제1공화국",
+    "short_title": "명예혁명·제1공화국",
+    "period": "1868~1874년",
+    "subtitle": "명예혁명·아마데오 1세·연방주의·쿠데타",
+    "category": "근현대",
+    "completed": true,
+    "keywords": "La Gloriosa Amadeo Primera República"
+  },
+  {
+    "number": 19,
+    "title": "부르봉 왕정복고와 1898년의 위기",
+    "short_title": "왕정복고·1898년",
+    "period": "1874~1898년",
+    "subtitle": "알폰소 12세·양당 교대·쿠바·필리핀",
+    "category": "근현대",
+    "completed": true,
+    "keywords": "Restauración turno pacífico 1898 Cuba Filipinas"
+  },
+  {
+    "number": 20,
+    "title": "왕정복고 체제의 위기와 알폰소 13세",
+    "short_title": "알폰소 13세 시대",
+    "period": "1898~1923년",
+    "subtitle": "98세대·노동운동·1917년 위기·모로코 전쟁",
+    "category": "근현대",
+    "completed": true,
+    "keywords": "Alfonso XIII Marruecos Annual semana trágica"
+  },
+  {
+    "number": 21,
+    "title": "프리모 데 리베라 군사독재",
+    "short_title": "프리모 데 리베라",
+    "period": "1923~1931년",
+    "subtitle": "군사정변·경제개발·독재 붕괴·왕정 종말",
+    "category": "근현대",
+    "completed": true,
+    "keywords": "Primo de Rivera dictadura 1923"
+  },
+  {
+    "number": 22,
+    "title": "스페인 제2공화국",
+    "short_title": "제2공화국",
+    "period": "1931~1936년",
+    "subtitle": "1931년 헌법·토지·교육 개혁·정치 양극화",
+    "category": "근현대",
+    "completed": true,
+    "keywords": "Segunda República Constitución 1931"
+  },
+  {
+    "number": 23,
+    "title": "스페인 내전",
+    "short_title": "스페인 내전",
+    "period": "1936~1939년",
+    "subtitle": "군사반란·국제개입·게르니카·공화국 패배",
+    "category": "근현대",
+    "completed": true,
+    "keywords": "Guerra Civil Franco Guernica 1936"
+  },
+  {
+    "number": 24,
+    "title": "프랑코 독재 전반기",
+    "short_title": "프랑코 독재 전반",
+    "period": "1939~1959년",
+    "subtitle": "전후 탄압·자급경제·국제적 고립·냉전",
+    "category": "근현대",
+    "completed": true,
+    "keywords": "Franquismo autarquía aislamiento"
+  },
+  {
+    "number": 25,
+    "title": "프랑코 독재 후반기",
+    "short_title": "프랑코 독재 후반",
+    "period": "1959~1975년",
+    "subtitle": "경제안정화 계획·관광산업·사회 변화·독재 종말",
+    "category": "근현대",
+    "completed": true,
+    "keywords": "Franco desarrollismo 1959 1975"
+  },
+  {
+    "number": 26,
+    "title": "스페인 민주화 이행기",
+    "short_title": "민주화 이행기",
+    "period": "1975~1982년",
+    "subtitle": "후안 카를로스 1세·1978년 헌법·1981년 쿠데타 미수",
+    "category": "근현대",
+    "completed": true,
+    "keywords": "Transición democracia 1978 23F"
+  },
+  {
+    "number": 27,
+    "title": "민주주의 정착과 유럽 통합",
+    "short_title": "민주주의·유럽 통합",
+    "period": "1982~2008년",
+    "subtitle": "펠리페 곤살레스·EU 가입·경제성장·정권교체",
+    "category": "근현대",
+    "completed": true,
+    "keywords": "PSOE González Unión Europea Aznar Zapatero"
+  },
+  {
+    "number": 28,
+    "title": "21세기 현대 스페인",
+    "short_title": "현대 스페인",
+    "period": "2008~2026년",
+    "subtitle": "금융위기·카탈루냐·다당제·현대사회",
+    "category": "근현대",
+    "completed": true,
+    "keywords": "crisis 2008 Cataluña 2017 2026 Sánchez democracia"
+  }
+]
